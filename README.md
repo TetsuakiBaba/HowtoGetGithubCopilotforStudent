@@ -4,6 +4,8 @@
 
 > [!IMPORTANT]
 > github公式ページにおいても、copilot proの学生向け無料利用の手順が記載されていますが、2025年5月2日現在においても Github Educationから取得できるといった情報が記載されていますが、おそらく、Github Educationのページは更新されていないと思われます。Github Copilotを学生が利用するためには、Student Developer Packへの登録が必要です。手順に関しては、以下の手順書を参考にしてください。
+>
+> もしすでに GitHub Education（ https://github.com/education/students ) にて申請、承認を得ている場合は、このマニュアルで示すstudent developer packを申請せずとも、こちらのリンク ( https://github.com/github-copilot/free_signup )からすぐにcopilot proを有効化できる場合があります。
 
 <p align="right">
 <a href="https://github.com/TetsuakiBaba/HowtoGetGithubCopilotforStudent/issues" target="_blank"><img src="https://img.shields.io/badge/問題報告-issue-red" alt="issue"></a>
