@@ -53,9 +53,7 @@
 
 1. **GitHub にログイン**  
 2. 右上のプロフィールアイコンをクリック → **「Your Copilot」** を選択。  
-3. 画面上部に **“You’re eligible for GitHub Copilot Pro”** と表示されるので  
-   **「Get access to GitHub Copilot」** → **「Save and complete」**。  
-   → 「Copilot Pro – ¥0 / month」の表示になれば成功。  
+3. 画面上部に ** GitHub Copilot Pro is active for your account ** と表示されていれば手続きは完了です。
 
 *参考: 「Getting free access to Copilot Pro as a student」公式手順 ([Getting free access to Copilot Pro as a student, teacher, or maintainer](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/getting-started-with-copilot-on-your-personal-account/getting-free-access-to-copilot-pro-as-a-student-teacher-or-maintainer?utm_source=chatgpt.com))*
 
