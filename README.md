@@ -47,19 +47,7 @@
 
 ---
 
-## ステップ 2　Copilot を“ON”にする
-> **よくあるつまずき**  
-> 「Student Developer Pack 承認＝Copilot 自動 ON」ではありません。**自分でスイッチを入れる**必要があります。
-
-1. **GitHub にログイン**  
-2. 右上のプロフィールアイコンをクリック → **「Your Copilot」** を選択。  
-3. 画面上部に ** GitHub Copilot Pro is active for your account ** と表示されていれば手続きは完了です。
-
-*参考: 「Getting free access to Copilot Pro as a student」公式手順 ([Getting free access to Copilot Pro as a student, teacher, or maintainer](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/getting-started-with-copilot-on-your-personal-account/getting-free-access-to-copilot-pro-as-a-student-teacher-or-maintainer?utm_source=chatgpt.com))*
-
----
-
-## ステップ VS Code で Copilot を使う
+## ステップ2： VS Code で Copilot を使う
 0. VS Codeをインストールしていなければ、<a href="https://code.visualstudio.com/" target="__blank">こちら</a>から。
 1. VS Code 左端の四角いアイコン **「Extensions」** をクリック。  
 2. 検索窓に **GitHub Copilot** と入力 → GitHub Copilot拡張機能が表示されるので、青い **“Install”** ボタンをクリック。  
