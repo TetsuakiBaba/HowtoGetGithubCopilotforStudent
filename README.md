@@ -33,7 +33,7 @@
 1. ブラウザで [education.github.com/pack](https://education.github.com/pack) を開き、
    画面最初にでている **「Sign up for Student Developer Pack」** をクリック。  
 2. 表示されたEducation Benefitsの項目にある「Start an application」をクリック（最初にGitHubにログインしている必要があります）
-   表示に従って「名前／メール／パスワード」を入力。
+   表示に従って「student／Tokyo Metropolitan University／大学メールアドレス」を入力。
 3. 下の画像のようなダイアログが表示されるので、以下のとおりに入力します。
     - Select your role in education: Student
     - What is the name of your school: Tokyo Metropolitan University
