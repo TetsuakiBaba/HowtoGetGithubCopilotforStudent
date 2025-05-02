@@ -1,5 +1,5 @@
 # 学生がGitHub CopilotをVSコードで利用できるようになるまでの手順
-従来はGitHub Copilotを利用するためにはGitHub Educationの登録で事足りていたのですが、いつのまには Student Developer Pack への登録が必要となったことで情報が錯綜していました。Github Copilotを学生が利用するための手順はこれからも変わる可能性が高いため、リポジトリとして残しておき、順次更新することにしました。
+従来はGitHub Copilotを利用するためにはGitHub Educationの登録で事足りていたのですが、いつのまにか Student Developer Pack への登録が必要となったことで情報が錯綜していました。Github Copilotを学生が利用するための手順はこれからも変わる可能性が高いため、リポジトリとして残しておき、順次更新することにしました。
 手順に問題を発見した場合は以下のissueリンクから問題点を報告してください。
 
 > [!IMPORTANT]
