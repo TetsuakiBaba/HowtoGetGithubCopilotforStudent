@@ -1,0 +1,2 @@
+# HowtoGetGithubCopilotforStudent
+授業で学生にgithub copilot proを取得してもらい、vsコードで利用できるようにするまでの流れの解説
