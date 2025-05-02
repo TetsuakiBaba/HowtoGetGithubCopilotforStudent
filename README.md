@@ -51,7 +51,7 @@
 0. VS Codeをインストールしていなければ、<a href="https://code.visualstudio.com/" target="__blank">こちら</a>から。
 1. VS Code上部のcopilotアイコンをクリックする、または右側チャット画面が表示されるので、チャット欄に「こんにちは」と入力する。<img width="1102" alt="スクリーンショット 2025-05-02 11 56 07" src="https://github.com/user-attachments/assets/b623cddc-e343-459e-bdfd-27e20bc77964" />
 2. 以下のようにgithubへのサインインを求められるので、画面の指示に従ってサインインしてください。この手順で必要な github copilotの拡張機能は自動でインストールされます
-   <img width="633" alt="スクリーンショット 2025-05-02 13 16 31" src="https://github.com/user-attachments/assets/300c1f3d-828c-4124-a048-936224d5aea0" />
+   <img width="616" alt="439793546-300c1f3d-828c-4124-a048-936224d5aea0" src="https://github.com/user-attachments/assets/1f53fe81-757f-4334-9af4-d6dc973124d4" />
 3. ログインが完了したら、チャット欄から「hello」などと入力して、対話ができるか確認してください。
 
 ---
