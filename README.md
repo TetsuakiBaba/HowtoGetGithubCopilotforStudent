@@ -62,6 +62,7 @@
 ---
 
 ## ステップ VS Code で Copilot を使う
+0. VS Codeをインストールしていなければ、<a href="https://code.visualstudio.com/" target="__blank">こちら</a>から。
 1. VS Code 左端の四角いアイコン **「Extensions」** をクリック。  
 2. 検索窓に **GitHub Copilot** と入力 → GitHub Copilot拡張機能が表示されるので、青い **“Install”** ボタンをクリック。  
 3. 右下にサインイン要求が出たら **“Sign in with GitHub”** → ブラウザが開くので **Authorize**。  
