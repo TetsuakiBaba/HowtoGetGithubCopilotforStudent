@@ -41,7 +41,9 @@
 
 4. Share Locationをクリックして、現在地を共有してください。おそらくですがご自身が所属している大学と位置情報から国を特定するためのものだと思います。完了するとContinueボタンがアクティブ（色が濃くなる）になるので、クリックしてください。
 5. 学生証のアップロードを求められます。画面上のUIに従って提出してください。
-6. 審査を待ちます。早ければ数時間、遅くても数日で承認メールが届きます。  
+6. 審査を待ちます。早ければ数時間、遅くても数日で承認メールが届きます。承認されたらGitHubページの右上のプロフィールアイコンから「Your Copilot」をクリックし、下記のように Copilot Proの表記があることを確認できたら完了です。
+   ![スクリーンショット 2025-05-02 15 06 45](https://github.com/user-attachments/assets/e0df4fcf-1fec-4394-a5f5-cc639fdba513)
+
 
 *参考: GitHub公式ヘルプ「Apply to GitHub Education as a student」 ([Apply to GitHub Education as a student](https://docs.github.com/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student?utm_source=chatgpt.com))*
 
