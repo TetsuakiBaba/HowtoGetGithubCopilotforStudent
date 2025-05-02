@@ -52,7 +52,8 @@
 1. VS Code 左端の四角いアイコン **「Extensions」** をクリック。  
 2. 検索窓に **GitHub Copilot** と入力 → GitHub Copilot拡張機能が表示されるので、青い **“Install”** ボタンをクリック。  
 3. 右下にサインイン要求が出たら **“Sign in with GitHub”** → ブラウザが開くので **Authorize**。  
-4. VS Code上部のcopilotアイコンをクリックすると右側にチャット画面が表示されるので、チャット欄に「こんにちは」と入力し、返答があれば完了です。
+4. VS Code上部のcopilotアイコンをクリックすると右側にチャット画面が表示されるので、チャット欄に「こんにちは」と入力し、返答があれば完了です。<img width="1102" alt="スクリーンショット 2025-05-02 11 56 07" src="https://github.com/user-attachments/assets/b623cddc-e343-459e-bdfd-27e20bc77964" />
+
 
 ---
 
