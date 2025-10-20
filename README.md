@@ -1,9 +1,11 @@
 # 学生がGitHub CopilotをVSコードで利用できるようになるまでの手順
-従来はGitHub Copilotを利用するためにはGitHub Educationの登録で事足りていたのですが、いつのまには Student Developer Pack への登録が必要となったことで情報が錯綜していました。Github Copilotを学生が利用するための手順はこれからも変わる可能性が高いため、リポジトリとして残しておき、順次更新することにしました。
+従来はGitHub Copilotを利用するためにはGitHub Educationの登録で事足りていたのですが、いつのまにか Student Developer Pack への登録が必要となったことで情報が錯綜していました。Github Copilotを学生が利用するための手順はこれからも変わる可能性が高いため、リポジトリとして残しておき、順次更新することにしました。
 手順に問題を発見した場合は以下のissueリンクから問題点を報告してください。
 
 > [!IMPORTANT]
 > github公式ページにおいても、copilot proの学生向け無料利用の手順が記載されていますが、2025年5月2日現在においても Github Educationから取得できるといった情報が記載されていますが、おそらく、Github Educationのページは更新されていないと思われます。Github Copilotを学生が利用するためには、Student Developer Packへの登録が必要です。手順に関しては、以下の手順書を参考にしてください。
+>
+> もしすでに GitHub Education（ https://github.com/education/students ) にて申請、承認を得ている場合は、このマニュアルで示すstudent developer packを申請せずとも、こちらのリンク ( https://github.com/github-copilot/free_signup )からすぐにcopilot proを有効化できる場合があります。
 
 <p align="right">
 <a href="https://github.com/TetsuakiBaba/HowtoGetGithubCopilotforStudent/issues" target="_blank"><img src="https://img.shields.io/badge/問題報告-issue-red" alt="issue"></a>
@@ -31,7 +33,7 @@
 1. ブラウザで [education.github.com/pack](https://education.github.com/pack) を開き、
    画面最初にでている **「Sign up for Student Developer Pack」** をクリック。  
 2. 表示されたEducation Benefitsの項目にある「Start an application」をクリック（最初にGitHubにログインしている必要があります）
-   表示に従って「名前／メール／パスワード」を入力。
+   表示に従って「student／Tokyo Metropolitan University／大学メールアドレス」を入力。
 3. 下の画像のようなダイアログが表示されるので、以下のとおりに入力します。
     - Select your role in education: Student
     - What is the name of your school: Tokyo Metropolitan University
@@ -41,7 +43,9 @@
 
 4. Share Locationをクリックして、現在地を共有してください。おそらくですがご自身が所属している大学と位置情報から国を特定するためのものだと思います。完了するとContinueボタンがアクティブ（色が濃くなる）になるので、クリックしてください。
 5. 学生証のアップロードを求められます。画面上のUIに従って提出してください。
-6. 審査を待ちます。早ければ数時間、遅くても数日で承認メールが届きます。  
+6. 審査を待ちます。早ければ数時間、遅くても数日で承認メールが届きます。承認されたらGitHubページの右上のプロフィールアイコンから「Your Copilot」をクリックし、下記のように Copilot Proの表記があることを確認できたら完了です。
+   ![スクリーンショット 2025-05-02 15 06 45](https://github.com/user-attachments/assets/e0df4fcf-1fec-4394-a5f5-cc639fdba513)
+
 
 *参考: GitHub公式ヘルプ「Apply to GitHub Education as a student」 ([Apply to GitHub Education as a student](https://docs.github.com/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student?utm_source=chatgpt.com))*
 
