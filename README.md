@@ -20,7 +20,7 @@
 ### 事前に用意しておくもの
 | 必須 | 理由 |
 |------|------|
-| **① GitHub アカウント** | Copilot は GitHub に紐づきます。持っていなければ<a href="https://github.com/signup" target="_blank">こちら</a>から作成します。 |
+| **① GitHub アカウント** | Copilot は GitHub に紐づきます。持っていなければ<a href="https://github.com/signup" target="_blank">こちら</a>から作成します。 なお、GitHubアカウントでは、2段階認証、GitHub billing information、GitHub user Profileの正確な名前入力などが必要です。Student Developer Pack申請をする前に確認してください。もし入力が不完全な場合は申請のやり直しとなります。|
 | **② 学校のメールアドレス** (推奨) または 学生証の写真/PDF | “本当に学生か” を GitHub に証明するために使います。 |
 
 > **注意:** クレジットカードは不要。料金はかかりません。
@@ -44,6 +44,7 @@
 6. 審査を待ちます。早ければ数時間、遅くても数日で承認メールが届きます。  
 
 *参考: GitHub公式ヘルプ「Apply to GitHub Education as a student」 ([Apply to GitHub Education as a student](https://docs.github.com/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student?utm_source=chatgpt.com))*
+
 
 ---
 
