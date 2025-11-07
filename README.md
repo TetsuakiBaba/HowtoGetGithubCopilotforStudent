@@ -10,7 +10,7 @@
 <p align="right">
 <a href="https://github.com/TetsuakiBaba/HowtoGetGithubCopilotforStudent/issues" target="_blank"><img src="https://img.shields.io/badge/問題報告-issue-red" alt="issue"></a>
 <br>
-    <img src="https://img.shields.io/badge/手順確認日-2025.05.02-blue" alt="手順確認日: 2025.05.02"><br>
+    <img src="https://img.shields.io/badge/手順確認日-2025.11.07-blue" alt="手順確認日: 2025.11.07"><br>
 
 </p>
 
@@ -23,15 +23,16 @@
 | 必須 | 理由 |
 |------|------|
 | **① GitHub アカウント** | Copilot は GitHub に紐づきます。持っていなければ<a href="https://github.com/signup" target="_blank">こちら</a>から作成します。 なお、GitHubアカウントでは、2段階認証、GitHub billing information、GitHub user Profileの正確な名前入力などが必要です。Student Developer Pack申請をする前に確認してください。もし入力が不完全な場合は申請のやり直しとなります。|
-| **② 学校のメールアドレス** (推奨) または 学生証の写真/PDF | “本当に学生か” を GitHub に証明するために使います。 |
+| **② 学校のメールアドレス**  | “本当に学生か” を GitHub に証明するために使います。 |
+| **③ 学生証の画像** | “本当に学生か” を GitHub に証明するために使います。 |
 
 > **注意:** クレジットカードは不要。料金はかかりません。
 
 ---
 
-## ステップ 1　Student Developer Pack（SDP）を申し込む
+## ステップ 1　Student Developer Pack（SDP）/Education Benefitsを申し込む
 1. ブラウザで [education.github.com/pack](https://education.github.com/pack) を開き、
-   画面最初にでている **「Sign up for Student Developer Pack」** をクリック。  
+   画面最初にでている **「Sign up for Student Developer Pack」** をクリック。 またはgithubにログイン後のssettingから Education benefitsを選択しても同じページに行けます。
 2. 表示されたEducation Benefitsの項目にある「Start an application」をクリック（最初にGitHubにログインしている必要があります）
    表示に従って「student／Tokyo Metropolitan University／大学メールアドレス」を入力。
 3. 下の画像のようなダイアログが表示されるので、以下のとおりに入力します。
@@ -42,7 +43,8 @@
     もし大学ドメインでのメールアドレスがアカウントに登録されていない場合、大学ドメインのメールアドレスを追加で登録する必要があります。
 
 4. Share Locationをクリックして、現在地を共有してください。おそらくですがご自身が所属している大学と位置情報から国を特定するためのものだと思います。完了するとContinueボタンがアクティブ（色が濃くなる）になるので、クリックしてください。
-5. 学生証のアップロードを求められます。画面上のUIに従って提出してください。
+   * 注意: 位置情報の共有がうまくいかない場合は、大学内のネットワークからお試しください。大学と場所が離れている場合は失敗する場合があります。また、ブラウザの設定で位置情報の共有を許可も必要です。
+5. 学生証のアップロードを求められます。画面上のUIに従って提出してください。学生証の画像は自動でOCR処理されるため、日本語のみの表記の場合は「We need a little more proof to verify your academic status.」などと警告が出る場合があります。この場合は、自身の学生証画像の日本語箇所に英語文字列を追加するなどを行なってください。
 6. 審査を待ちます。早ければ数時間、遅くても数日で承認メールが届きます。承認されたらGitHubページの右上のプロフィールアイコンから「Your Copilot」をクリックし、下記のように Copilot Proの表記があることを確認できたら完了です。
    ![スクリーンショット 2025-05-02 15 06 45](https://github.com/user-attachments/assets/e0df4fcf-1fec-4394-a5f5-cc639fdba513)
 
